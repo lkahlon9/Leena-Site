@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #132743;
+  font-size: 6.5rem;
+}
+
+h2 {
+  font-family: 'PT Serif', serif;
+  color: #132743;
+  font-size: 1.87rem;
+  margin-bottom: 6.25rem;
+}
+
+h3 {
+  font-family: 'Merriweather', sans-serif;
+  color: #407088;
+}
+
+.about {
+  font-family: 'PT Serif', serif;
+  color: #407088;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 2;
+  margin-bottom: 6.25rem;
+  text-align: center;
+}
+
+p {
+  font-family: 'PT Serif', serif;
+  color: #407088;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #407088;
+  border-width: 5px;
+  width: 5%;
+}
+
+.project {
+  background-color: #f7d6bf;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'PT Serif', serif;
+  color: #407088;
+}
+
+.top-container {
+  position: relative;
+  background-color: #a2d5f2;
+}
+
+.header{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.sunrise {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding-bottom: 6.25rem;
+  margin-top: -40px;
+}
+
+.middle-container {
+  background-color: #a2d5f2;
+}
+
+.h2-middle {
+  font-family: 'Merriweather', sans-serif;
+  color: #407088;
+  margin-top: 0;
+  text-align: center;
+}
+
+.skills {
+  margin-top: 6.25rem;
+}
+
+.skill-row {
+  margin: 6.25rem auto 6.25rem auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img {
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.analysis-img {
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.links {
+  text-align: center;
+  margin-top: 6.25rem;
+}
+
+.link-set {
+  background-color: #f7d6bf;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'PT Serif', serif;
+  color: #407088;
+  position: relative;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.contact-row {
+  padding-bottom: 25px;
+}
+
+.email {
+  font-family: 'Merriweather', sans-serif;
+  color: #407088;
+  text-decoration: none;
+  font-weight: bold;
+}
